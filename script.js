@@ -125,7 +125,7 @@ function updateData() {
             <span>${item.firstName}  ${item.lastName}</span>
             <span>${item.country}</span>
             <span>${item.score}</span>
-            <button class="del">X</button>
+            <button class="del">🗑️</button>
             <button class="but1">+5</button>
             <button class="but2">-5</button>
         </div>
@@ -151,5 +151,13 @@ function activateButtons() {
         });
     });
 }
-
+let isFirstImage = true;
+setInterval(() => {
+    if (isFirstImage) {
+        document.body.style.backgroundImage = "url('https://www.creditbenchmark.com/wp-content/uploads/2023/05/iStock-1419766496.jpg')";
+    } else {
+        document.body.style.backgroundImage = "url('https://cdn.dribbble.com/userupload/3066902/file/original-7bd367911dd95e99794eba83317f2532.png?resize=400x0')";
+    }
+    isFirstImage = !isFirstImage;
+}, 6000);
 window.addEventListener('load', updateData);
