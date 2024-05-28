@@ -1,14 +1,13 @@
-# Leaderboard App README
+# Leaderboard App 
 
 ## Description
 This project is a simple leaderboard application that allows users to add, update, and delete player data. It provides a leaderboard view where players are ranked based on their scores. Users can also increment or decrement a player's score by clicking the respective buttons.
 
 ## Demo
-You can access a live demo of the Leaderboard App [here](https://example.com).
+You can access a live demo of the Leaderboard App [here](https://ganesh-patel.github.io/LeaderBoard/).
 
 ## Screenshots
-![Leaderboard Screenshot](screenshots/leaderboard.png)
-
+![Screenshot from 2024-05-28 17-18-36](https://github.com/Ganesh-Patel/LeaderBoard/assets/148999574/7de5b74f-2cb8-4d72-8048-f44040fd36cd)
 ## Features
 - Add new players with their first name, last name, country, and score.
 - View the leaderboard with players ranked based on their scores.
@@ -27,7 +26,7 @@ You can access a live demo of the Leaderboard App [here](https://example.com).
 4. Interact with the leaderboard by incrementing, decrementing, or deleting players.
 
 ## GitHub Repository
-The source code for this project is available on GitHub. You can find the repository [here](https://github.com/your-username/leaderboard-app).
+The source code for this project is available on GitHub. You can find the repository [here](https://github.com/your-username/LeaderBoard).
 
 ## Credits
 - This project is part of a coding exercise.
