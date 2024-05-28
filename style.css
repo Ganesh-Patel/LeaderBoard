@@ -97,7 +97,8 @@ button:hover {
 }
 
 .button_group .del {
-    background-color: red;
+    background-color: transparent;
+    font-size: 25px;
     color: white;
 }
 
