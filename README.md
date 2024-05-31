@@ -4,7 +4,7 @@
 This project is a simple leaderboard application that allows users to add, update, and delete player data. It provides a leaderboard view where players are ranked based on their scores. Users can also increment or decrement a player's score by clicking the respective buttons.
 
 ## Demo
-You can access a live demo of the Leaderboard App [here](https://ganesh-patel.github.io/LeaderBoard/).
+You can access a live demo of the Leaderboard App [here](https://transcendent-gecko-1b1d6e.netlify.app/).
 
 ## Screenshots
 ![Screenshot from 2024-05-28 17-18-36](https://github.com/Ganesh-Patel/LeaderBoard/assets/148999574/7de5b74f-2cb8-4d72-8048-f44040fd36cd)
